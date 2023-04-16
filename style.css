@@ -1,0 +1,29 @@
+h1{
+  font-family: 'Maven Pro', sans-serif;
+  font-size: xx-large;
+  text-align: center;
+  text-decoration-line: underline;
+}
+h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  text-align: center;
+  text-decoration-line: underline;
+  color:rgb(218, 91, 32);
+}
+
+h3{
+  font-size: larger;
+  text-align: center;
+  text-decoration-line: underline;
+  color: black;
+}
+
+.box {
+  background-image: url("./piatti/Pollo.jpg");
+  background-size: cover;
+  height: 230px;
+  width: 100vw; 
+  display: flex;
+  justify-content: end;
+}
